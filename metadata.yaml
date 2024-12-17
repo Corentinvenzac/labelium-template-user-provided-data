@@ -15,5 +15,5 @@
 homepage: "https://www.labelium.com/"
 documentation: ""
 versions:
-  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+  - sha: dda4379f859de1e28b259bb298154d07ee0a95df
     changeNotes: Initial Version
